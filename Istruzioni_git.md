@@ -16,7 +16,7 @@ Per inizializzare una repository devo usare il comando
 ```powershell
 git status 
 ```
-Poi, per aggiungere alla staging **area un file** userò il comando: 
+Poi, per aggiungere alla **stading area** un file userò il comando: 
 ```powershell
 git add . 
 ```

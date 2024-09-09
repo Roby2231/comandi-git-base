@@ -28,3 +28,6 @@ Per sincronizzare l'invio sulla repository online userò il comando:
 ```powershell
 git push
 ```
+
+***
+Prodotto da :*Roberta Iannola*
